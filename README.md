@@ -1,1 +1,2 @@
 # CollegeMgnt
+# Author - Mohit Sharma
